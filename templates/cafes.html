@@ -1,8 +1,14 @@
 {% extends 'base.html' %}
 {% block title %}Restaurants{% endblock %}
-{% block styling %}
+
+{% block styles %}
+      {{ super() }}
+      {{ bootstrap.load_css() }}
+    <!-- Link to the styles.css here to apply styling to all the child templates.-->
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"/>
 
 {% endblock %}
+
 
 {% block content %}
 
