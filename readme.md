@@ -73,3 +73,4 @@ If you’re someone like me—a coffee enthusiast and tech lover—you’ll find
 Have suggestions or questions? Feel free to reach out. I am happy to hear feedback because that allows us all to improve.
 
 Happy coding and coffee hopping! ☕️
+
